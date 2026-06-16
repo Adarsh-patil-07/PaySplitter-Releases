@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="icon.png" width="120" alt="Pay Splitter Icon"><br>
-  Pay Splitter 💸
+  Pay Splitter
 </h1>
 
 <p align="center">
@@ -47,5 +47,5 @@ Don't want to download anything? Use the full web version instantly on any devic
 
 
 <p align="center">
-  <img src="PaySplitter_FeatureGraphic.png" width="1024" height="500" alt="Pay Splitter App Preview Banner">
+  <img src="Pay_SPlitter-Banner.png" width="1024" height="500" alt="Pay Splitter App Preview Banner">
 </p>
