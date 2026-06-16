@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="PaySplitter_featureGraphic.png" width="1024" height="500" alt="Pay Splitter App Preview Banner">
+  <img src="PaySplitter_FeatureGraphic.png" width="1024" height="500" alt="Pay Splitter App Preview Banner">
 </p>
 
 ---
