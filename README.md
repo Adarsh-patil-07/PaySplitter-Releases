@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <strong>The ultimate app for tracking group expenses and splitting bills effortlessly.</strong>
+  <strong>💸 Split group expenses seamlessly & settle debts with zero stress!</strong>
 </p>
 
 ---
@@ -31,7 +31,6 @@ Don't want to download anything? Use the full web version instantly on any devic
 * **💸 Direct UPI QR Integration:** Settling debts has never been easier. Just scan or share your built-in UPI QR details to instantly pay back your friends directly through the app.
 * **🧮 Smart Debt Calculation:** The app does the heavy mathematical lifting for you. It automatically calculates the most efficient way to settle debts so everyone pays back the minimum number of people.
 * **☁️ Real-time Cloud Sync:** Securely powered by Google Sign-In and Firebase. Your data is instantly backed up and synced across all your devices in milliseconds.
-* **💎 Premium
 
 ## 🛠️ Built With
 * **Frontend:** HTML5, Vanilla JavaScript, CSS3
