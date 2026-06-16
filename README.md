@@ -3,7 +3,6 @@
 <p align="center">
   <img src="icon.png" width="150" alt="Pay Splitter Icon">
 </p>
-
 <h1 align="center">Pay Splitter 💸</h1>
 
 <p align="center">
