@@ -9,10 +9,6 @@
   <strong>The ultimate app for tracking group expenses and splitting bills effortlessly.</strong>
 </p>
 
-<p align="center">
-  <img src="PaySplitter_FeatureGraphic.png" width="1024" height="500" alt="Pay Splitter App Preview Banner">
-</p>
-
 ---
 
 ## 🚀 Download the App
@@ -43,8 +39,15 @@ Don't want to download anything? Use the full web version instantly on any devic
 * **Frontend:** HTML5, Vanilla JavaScript, CSS3
 * **Backend:** Firebase (Authentication & Realtime Database)
 * **Mobile Build:** Capacitor.js
-
+  
 ---
 <p align="center">
   <i>Built with ❤️ by Adarsh Patil</i>
+</p>
+
+<hr>
+
+
+<p align="center">
+  <img src="PaySplitter_FeatureGraphic.png" width="1024" height="500" alt="Pay Splitter App Preview Banner">
 </p>
