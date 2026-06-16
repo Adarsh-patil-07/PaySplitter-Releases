@@ -1,7 +1,7 @@
 # PaySplitter-Releases
 
 <p align="center">
-  <img src="assets/icon.png" width="150" alt="Pay Splitter Icon">
+  <img src="icon.png" width="150" alt="Pay Splitter Icon">
 </p>
 
 <h1 align="center">Pay Splitter 💸</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/preview.png" width="800" alt="Pay Splitter App Preview Banner">
+  <img src="preview.png" width="800" alt="Pay Splitter App Preview Banner">
 </p>
 
 ---
