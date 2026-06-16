@@ -25,8 +25,6 @@ Don't want to download anything? Use the full web version instantly on any devic
 
 ## ✨ Key Features
 
-## ✨ Key Features
-
 * **🌍 Global Multi-Currency Support:** Traveling the world? Instantly switch between global currencies directly from your dashboard and watch your debts dynamically update.
 * **🔗 Share Trips Instantly:** Invite friends to your trip with a single link so everyone can add expenses and track the budget together in real-time.
 * **📱 Seamless Offline Mode:** Add expenses even when you're completely off the grid or traveling without Wi-Fi. The app securely stores your data locally and automatically syncs it to the cloud the moment your internet connects.
