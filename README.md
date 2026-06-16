@@ -47,5 +47,5 @@ Don't want to download anything? Use the full web version instantly on any devic
 
 
 <p align="center">
-  <img src="Pay_SPlitter-Banner.png" alt="Pay Splitter App Preview Banner">
+  <img src="Pay-Splitter-Banner.PNG" alt="Pay Splitter App Preview Banner">
 </p>
